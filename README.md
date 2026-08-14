@@ -4,7 +4,7 @@ Minimal agenda TUI over Google Calendar, authenticated through GNOME Online Acco
 
 ## Deps
 
-https://github.com/GNOME/gnome-online-accounts
+https://github.com/xapp-project/gnome-online-accounts-gtk
 
 ## Build
 
